@@ -1,13 +1,1 @@
-<<<<<<< HEAD
-Test5......67890
-1
-2
-3
-Campus Open...
-4
-5
-=======
-Linuxbakkie
-
-Test5......67890
->>>>>>> 28c4eff91498e01f1e83e3d44fa694bf94e8ee64
+Opnieuw......
